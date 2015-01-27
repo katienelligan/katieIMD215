@@ -1,5 +1,5 @@
-# katieIMD215
-A test for IM215 8:30 class
+# KatieIMD415
+A test for IM415 8:30 class
 
 # Hello world, this is bullets in markdown language
 
